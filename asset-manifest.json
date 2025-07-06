@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/typespeed/static/css/main.1e13fb42.css",
+    "main.css": "/typespeed/static/css/main.2b3a9078.css",
     "main.js": "/typespeed/static/js/main.8353a83e.js",
     "index.html": "/typespeed/index.html",
-    "main.1e13fb42.css.map": "/typespeed/static/css/main.1e13fb42.css.map",
+    "main.2b3a9078.css.map": "/typespeed/static/css/main.2b3a9078.css.map",
     "main.8353a83e.js.map": "/typespeed/static/js/main.8353a83e.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e13fb42.css",
+    "static/css/main.2b3a9078.css",
     "static/js/main.8353a83e.js"
   ]
 }
